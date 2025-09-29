@@ -1,4 +1,4 @@
-# eBay React Coding Exercise — Listings Manager (Starter)
+# eBay React Coding Exercise — Listings Manager
 
 Thank you for your interest in joining the **eBay Engineering Team**.  
 This repository contains a coding exercise used in our recruitment process for frontend engineering roles.
